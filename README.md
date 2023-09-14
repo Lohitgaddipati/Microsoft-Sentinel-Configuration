@@ -1,5 +1,6 @@
 # Microsoft-Sentinel-Configuration
 
+(For a more detailed report, download the document or visit https://blog.lohitgaddipati.com)
 
 Step 1: I started by creating a log analytic workspace to add my in-Sentinel workspace 
 
