@@ -42,4 +42,3 @@ Workbook has some predefined templets that can be used to create your workbook
 
 
 All the resources and security we added is completely isolated under one resource group, which if need can be deleted with rest of your work. 
-![image](https://github.com/Lohitgaddipati/Microsoft-Sentinel-Configuration/assets/101139863/a298a8cd-fce8-423f-abfa-bb5356d2823a)
